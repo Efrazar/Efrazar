@@ -42,11 +42,11 @@ I am especially interested in:
 
 ## What I'm Building
 
-- Reproducible bioinformatics workflows
-- Machine learning projects applied to biological problems
-- Well-documented notebooks and analysis pipelines
-- A public portfolio that shows growth over time
-- A bridge between biological insight and computational methods
+- Reproducible bioinformatics workflows grounded in real biological questions
+- Foundational machine learning and deep learning skills for Bio-AI applications
+- Stronger Python-based scientific computing through hands-on exercises and notebooks
+- A public portfolio that documents my transition from wet-lab biology to computational biotechnology
+- A bridge between biological insight, sequencing-based analysis, and AI-driven methods
 
 ---
 
@@ -67,14 +67,13 @@ I am especially interested in:
 
 ## Featured Projects
 
-> Replace the placeholders below with your actual repositories.
+These repositories document my progression from experimental biology into bioinformatics, scientific computing, and Bio-AI. Together, they show how I apply biological context, build computational skills, and create reproducible workflows that support my transition into AI-driven biotechnology.
 
 | Project | Focus | Tech | What it shows |
 |---|---|---|---|
-| [Project Name 1](https://github.com/Efrazar) | Bioinformatics workflow | Python, Jupyter, Bash | Reproducible biological data analysis |
-| [Project Name 2](https://github.com/Efrazar) | ML for biology | Python, pandas, scikit-learn | Applied learning in AI/ML for life sciences |
-| [Project Name 3](https://github.com/Efrazar) | Sequencing / genomics | Python, ONT-related analysis, Linux | Biological interpretation with computation |
-
+| [Metagenomic-Analysis-of-HuntingMicromonsters](https://github.com/Efrazar/Metagenomic-Analysis-of-HuntingMicromonsters) | Bioinformatics workflow | Next-generation sequencing, metagenomics, Oxford Nanopore, bioinformatics scripts, taxonomic classification, proteomics, Bash | A documented workflow for metagenomic and proteomic analysis of sequencing data generated in the [*Hunting MicroMonsters* project](https://hmicromonsters.wordpress.com/). |
+| [Bio-AI-foundations](https://github.com/Efrazar/Bio-AI-foundations) | AI / ML foundations | PyTorch, Python, scikit-learn, pandas | My journey learning the foundational principles of machine learning, deep learning, and artificial intelligence. |
+| [Pandas-training](https://github.com/Efrazar/Pandas-training) | Programming skills development | Python, pandas, NumPy, scikit-learn, Jupyter Notebook | Training exercises that document my growth in Python-based data analysis and scientific computing. |
 ---
 
 ## Technical Toolkit
@@ -115,7 +114,7 @@ I am especially interested in:
 
 I use this GitHub to document my transition from wet-lab scientist to computationally driven biotech researcher.
 
-Rather than showing only finished work, I want this profile to reflect how I think, learn, build, and improve. My goal is to create a clear record of progress that demonstrates scientific rigor, technical curiosity, and readiness for Bio-AI and computational biology opportunities.
+This profile is not just a collection of code repositories. It is a structured record of how I am developing skills in bioinformatics, scientific computing, and artificial intelligence while building on a strong foundation in cell and molecular biology. My goal is to make that growth visible through real projects, clear documentation, and reproducible work. 
 
 ---
 
