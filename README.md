@@ -75,6 +75,7 @@ These repositories document my progression from experimental biology into bioinf
 | [Metagenomic-Analysis-of-HuntingMicromonsters](https://github.com/Efrazar/Metagenomic-Analysis-of-HuntingMicromonsters) | Bioinformatics workflow | Next-generation sequencing, metagenomics, Oxford Nanopore, bioinformatics scripts, taxonomic classification, proteomics, Bash | A documented workflow for metagenomic and proteomic analysis of sequencing data generated in the [*Hunting MicroMonsters* project](https://hmicromonsters.wordpress.com/). |
 | [Bio-AI-foundations](https://github.com/Efrazar/Bio-AI-foundations) | AI / ML foundations | PyTorch, Python, scikit-learn, pandas | My journey learning the foundational principles of machine learning, deep learning, and artificial intelligence. |
 | [Programming-skills-development](https://github.com/Efrazar/Programming-skills-development) | Programming skills development | Python, pandas, NumPy, scikit-learn, Jupyter Notebook | Training exercises that document my growth in Python-based data analysis and scientific computing. |
+| [In-silico-Bioprocess-Optimization](https://github.com/Efrazar/in-silico-bioprocess-optimization) | Bioprocess Engineering | ML-DL workflows | DoE in-silico optimization |
 ---
 
 ## Technical Toolkit
