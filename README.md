@@ -56,6 +56,7 @@ I am especially interested in:
 - Scientist in Research & Development
 - Experience in genetic expression systems and host cell engineering
 - Work with mammalian systems such as HEK293 and CHO
+- Design of Experiment (DoE) and Response Surface Metodology optimization workflows
 - Bacterial strain engineering and plasmid-based design
 - Oxford Nanopore sequencing workflows for genomic validation
 - Bioinformatics analysis of genomic and transcriptomic datasets
@@ -116,7 +117,7 @@ These repositories document my progression from experimental biology into bioinf
 
 I use this GitHub to document my transition from wet-lab scientist to computationally driven biotech researcher.
 
-This profile is not just a collection of code repositories. It is a structured record of how I am developing skills in bioinformatics, scientific computing, and artificial intelligence while building on a strong foundation in cell and molecular biology. My goal is to make that growth visible through real projects, clear documentation, and reproducible work. 
+This profile is not just a collection of code repositories. It is a structured record of how I am developing skills in bioinformatics, scientific computing, and artificial intelligence while building on a strong foundation in cell and molecular biology. My goal is to make that growth visible through real projects, clear documentation, ethical, and reproducible work. 
 
 ---
 
