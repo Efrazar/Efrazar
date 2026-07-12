@@ -74,7 +74,7 @@ These repositories document my progression from experimental biology into bioinf
 |---|---|---|---|
 | [Prompting_Helper_COSTAR](https://github.com/Efrazar/Prompting_helper_COSTAR.git). | Prompting engineering | Desktop App | I developed this tool to create and manage a prompt library using the COSTAR technique. |
 | [Metagenomic-Analysis-of-HuntingMicromonsters](https://github.com/Efrazar/Metagenomic-Analysis-of-HuntingMicromonsters) | Bioinformatics workflow | Next-generation sequencing, metagenomics, Oxford Nanopore, bioinformatics scripts, taxonomic classification, proteomics, Bash | A documented workflow for metagenomic and proteomic analysis of sequencing data generated in the [*Hunting MicroMonsters* project](https://hmicromonsters.wordpress.com/). |
-| [Bio-AI-foundations](https://github.com/Efrazar/Bio-AI-foundations) | AI / ML foundations | PyTorch, Python, scikit-learn, pandas | My journey learning the foundational principles of machine learning, deep learning, and artificial intelligence. |
+| [Bio-AI-foundations](https://github.com/Efrazar/Bio-AI-foundations) | AI / DL / ML foundations | PyTorch, Python, scikit-learn, pandas | My journey learning the foundational principles of machine learning, deep learning, and artificial intelligence. Including implementing and training neural network architectures from scratch: Fully connected networks, CNNs, RNN, Autoencoders, GANs. |
 | [Programming-skills-development](https://github.com/Efrazar/Programming-skills-development) | Programming skills development | Python, pandas, NumPy, scikit-learn, Jupyter Notebook | Training exercises that document my growth in Python-based data analysis and scientific computing. |
 | [In-silico-Bioprocess-Optimization](https://github.com/Efrazar/in-silico-bioprocess-optimization) | Bioprocess Engineering | ML-DL workflows | DoE in-silico optimization |
 ---
@@ -127,7 +127,7 @@ This profile is not just a collection of code repositories. It is a structured r
 - Building end-to-end bioinformatics projects
 - Applying machine learning concepts to biological datasets
 - Improving reproducibility, documentation, and project presentation
-- Curating a portfolio that is useful to recruiters and collaborators
+- Curating a portfolio that is useful to collaborators and recruiters
 
 ---
 
