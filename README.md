@@ -5,8 +5,8 @@ By Efrain Zarazua-Arvizu
 <h1 align="center">Hi, I'm Efrain Zarazua-Arvizu, PhD 👋</h1>
 
 <p align="center">
-  <strong>Cell and molecular biologist transitioning into Bio-AI</strong><br>
-  Building at the intersection of biotechnology, bioinformatics, and machine learning
+  <strong>PhD cell and molecular biologist · Bioprocess and Bio-AI</strong><br>
+  10+ years of biotech R&amp;D, now combining wet-lab expertise with Python and PyTorch modelling
 </p>
 
 <p align="center">
@@ -28,106 +28,40 @@ By Efrain Zarazua-Arvizu
 
 ## About Me
 
-I am a scientist with a PhD in Cell and Molecular Biology, currently building a visible transition from wet-lab biology to a hybrid **Biotech / Bio-AI** profile.
+I am an R&D scientist with a PhD in Cell and Molecular Biology from the University of Edinburgh and more than ten years of experience in genetic engineering, synthetic biology and bioprocess development. In the lab I engineer mammalian (HEK293, CHO) and bacterial expression systems and use Design of Experiments to optimize them.
 
-My background includes genetic engineering, mammalian cell line engineering, bacterial strain development, sequencing-based validation, molecular assay development, and computational analysis of biological data. This GitHub serves as a living portfolio of that transition through projects, notes, workflows, and technical experiments.
-
-I am especially interested in:
-- Bioinformatics and computational biology
-- AI and machine learning for biology
-- Reproducible scientific computing
-- Biotechnology innovation and data-driven research
-
----
-
-## What I'm Building
-
-- Reproducible bioinformatics workflows grounded in real biological questions
-- Foundational machine learning and deep learning skills for Bio-AI applications
-- Stronger Python-based scientific computing through hands-on exercises and notebooks
-- A public portfolio that documents my transition from wet-lab biology to computational biotechnology
-- A bridge between biological insight, sequencing-based analysis, and AI-driven methods
-
----
-
-## Background Snapshot
-
-- PhD in Cell and Molecular Biology
-- Scientist in Research & Development
-- Experience in genetic expression systems and host cell engineering
-- Work with mammalian systems such as HEK293 and CHO
-- Design of Experiment (DoE) and Response Surface Methodology optimization workflows
-- Bacterial strain engineering and plasmid-based design
-- Oxford Nanopore sequencing workflows for genomic validation
-- Bioinformatics analysis of genomic and transcriptomic datasets
-- ddPCR assay development and viral analytics
-- FACS-based population analysis
-- SOP development, technical reporting, and scientific communication
+On GitHub I build the computational side: experimental design, mechanistic and machine learning models of bioprocesses, sequencing workflows, and deep learning in PyTorch. I am looking for roles where molecular biology and AI/ML work together to speed up biotech R&D.
 
 ---
 
 ## Featured Projects
 
-These repositories document my progression from experimental biology into bioinformatics, scientific computing, and Bio-AI. Together, they show how I apply biological context, build computational skills, and create reproducible workflows that support my transition into AI-driven biotechnology.
-
-| Project | Focus | Tech | What it shows |
+| Project | What it does | Highlights | Tech |
 |---|---|---|---|
-| [Prompting_Helper_COSTAR](https://github.com/Efrazar/Prompting_helper_COSTAR.git). | Prompt engineering | Desktop App | I developed this tool to create and manage a prompt library using the COSTAR technique. |
-| [Metagenomic-Analysis-of-HuntingMicromonsters](https://github.com/Efrazar/Metagenomic-Analysis-of-HuntingMicromonsters) | Bioinformatics workflow | Next-generation sequencing, metagenomics, Oxford Nanopore, bioinformatics scripts, taxonomic classification, proteomics, Bash | A documented workflow for metagenomic and proteomic analysis of sequencing data generated in the [*Hunting MicroMonsters* project](https://hmicromonsters.wordpress.com/). |
-| [Bio-AI-foundations](https://github.com/Efrazar/Bio-AI-foundations) | AI / DL / ML foundations | PyTorch, Python, scikit-learn, pandas | My journey learning the foundational principles of machine learning, deep learning, and artificial intelligence. Including implementing and training neural network architectures from scratch: Fully connected networks, CNNs, RNNs, Autoencoders, GANs. |
-| [Programming-skills-development](https://github.com/Efrazar/Programming-skills-development) | Programming skills development | Python, pandas, NumPy, scikit-learn, Jupyter Notebook | Training exercises that document my growth in Python-based data analysis and scientific computing. |
-| [In-silico-Bioprocess-Optimization](https://github.com/Efrazar/in-silico-bioprocess-optimization) | Bioprocess Engineering | ML-DL workflows | DoE in-silico optimization |
+| [In Silico Bioprocess Optimization](https://github.com/Efrazar/in-silico-bioprocess-optimization) | Compares DoE, mechanistic ODE models and machine learning for optimizing a simulated mAb cell-culture process | A 15-run Box-Behnken design reaches 99.8% of the achievable titer. A physics-informed neural network recovers kinetic rates within 5%. A hybrid grey-box model with Bayesian optimization reaches 97.5% of the true maximum. | Python, statsmodels, SciPy, scikit-optimize, PyTorch |
+| [Metagenomic Analysis: Hunting MicroMonsters](https://github.com/Efrazar/Metagenomic-Analysis-of-HuntingMicromonsters) | Oxford Nanopore shotgun metagenomics workflow for eDNA from Scottish lochs, collected on the [*Hunting MicroMonsters*](https://hmicromonsters.wordpress.com/) expedition | Basecalling, read QC, filtering and Kraken2 classification with reusable batch scripts. Taxonomic results in progress. | Bash, Guppy, NanoPlot, Filtlong, Kraken2, Bracken |
+| [Bio-AI Foundations](https://github.com/Efrazar/Bio-AI-foundations) | Deep learning implemented from scratch while working through *Inside Deep Learning* | Fully connected networks, CNNs, RNNs, autoencoders, GANs, attention and sequence-to-sequence models, trained on a local eGPU setup | PyTorch, Python |
+| [COSTAR Prompting Helper](https://github.com/Efrazar/Prompting_helper_COSTAR) | Desktop app for writing structured AI prompts with the COSTAR framework and keeping a searchable prompt library | Packaged for Windows, macOS and Linux, with unit tests | Python, PySide6, SQLAlchemy, SQLite, pytest |
+
 ---
 
 ## Technical Toolkit
 
-### Biology & Biotechnology
-- Cell biology
-- Molecular biology
-- Genetic engineering
-- Mammalian cell line engineering
-- Bacterial strain development
-- Assay development
+**Biology and biotechnology:** mammalian cell line engineering (HEK293, CHO), bacterial strain engineering, plasmid design, bioprocess development, ddPCR assay development, flow cytometry, protein analytics (CE-SDS, HPLC)
 
-### Bioinformatics & Data
-- Genomic data analysis
-- Transcriptomic data interpretation
-- Sequencing-based validation
-- Reproducible workflows
-- Scientific data analysis
+**Experimental design and statistics:** Design of Experiments (Box-Behnken, factorial, central composite), response surface methodology, constrained optimization
 
-### Computing
-- Python
-- Jupyter Notebooks
-- Git and GitHub
-- Linux / command line
-- Markdown
-- Data visualization
+**Sequencing and bioinformatics:** Oxford Nanopore workflows, read QC and filtering, amplicon analysis (minimap2, CRISPResso2), metagenomic classification (Kraken2, Bracken)
 
-### Growing Focus
-- Machine learning
-- AI for biology
-- Computational biotechnology
-- Scientific software habits
-- Portfolio-driven technical communication
+**Machine learning and computing:** Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, Bayesian optimization, physics-informed neural networks, Jupyter, Bash, Git, Linux
 
 ---
 
-## Why This GitHub Exists
+## Currently
 
-I use this GitHub to document my transition from wet-lab scientist to computationally driven biotech researcher.
-
-This profile is not just a collection of code repositories. It is a structured record of how I am developing skills in bioinformatics, scientific computing, and artificial intelligence while building on a strong foundation in cell and molecular biology. My goal is to make that growth visible through real projects, clear documentation, and ethical, reproducible work. 
-
----
-
-## Current Priorities
-
-- Strengthening Python for scientific computing
-- Building end-to-end bioinformatics projects
-- Applying machine learning concepts to biological datasets
-- Improving reproducibility, documentation, and project presentation
-- Curating a portfolio that is useful to collaborators and recruiters
+- Finishing the taxonomic results for the Hunting MicroMonsters metagenomics project
+- Publishing my hackathon project
+- Learning more about protein language models and fine-tuning small language models for biology
 
 ---
 
@@ -136,19 +70,3 @@ This profile is not just a collection of code repositories. It is a structured r
 - LinkedIn: [efrain-zarazua-arvizu](https://www.linkedin.com/in/efrain-zarazua-arvizu/)
 - ORCID: [0000-0001-6247-6117](https://orcid.org/0000-0001-6247-6117)
 - Email: [ezarazuaarvizu@gmail.com](mailto:ezarazuaarvizu@gmail.com)
-
----
-
-## Profile Note
-
-This GitHub is an active work in progress and reflects my ongoing transition into Bio-AI, computational biology, and reproducible research.
-
-<!--
-Future additions:
-- GitHub stats cards
-- Top languages card
-- Visitor counter
-- Publications section
-- Certifications section
-- Blog/posts section
--->
