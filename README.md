@@ -39,6 +39,7 @@ On GitHub I build the computational side: experimental design, mechanistic and m
 | Project | What it does | Highlights | Tech |
 |---|---|---|---|
 | [In Silico Bioprocess Optimization](https://github.com/Efrazar/in-silico-bioprocess-optimization) | Compares DoE, mechanistic ODE models and machine learning for optimizing a simulated mAb cell-culture process | A 15-run Box-Behnken design reaches 99.8% of the achievable titer. A physics-informed neural network recovers kinetic rates within 5%. A hybrid grey-box model with Bayesian optimization reaches 97.5% of the true maximum. | Python, statsmodels, SciPy, scikit-optimize, PyTorch |
+| [Find the Right Patients (Hackathon)](https://github.com/Efrazar/Hackathon_Events/tree/main/2026-11_DNA-Forge-AIxBio-Hackathon/find-the-right-patients) | DNA Forge AI x Bio Hackathon, Biobase challenge: finds trial-eligible patients in pathology reports and matches tissue slides using image embeddings | Official scores: patient search F1 1.000 over 30 criteria, organ identification 89.6%, similar-slide precision at 10 of 0.887. Explainable filters that handle negation, units and staging, plus a fix for lab-style bias. | Python, scikit-learn, Streamlit, pathology foundation-model embeddings |
 | [Metagenomic Analysis: Hunting MicroMonsters](https://github.com/Efrazar/Metagenomic-Analysis-of-HuntingMicromonsters) | Oxford Nanopore shotgun metagenomics workflow for eDNA from Scottish lochs, collected on the [*Hunting MicroMonsters*](https://hmicromonsters.wordpress.com/) expedition | Basecalling, read QC, filtering and Kraken2 classification with reusable batch scripts. Taxonomic results in progress. | Bash, Guppy, NanoPlot, Filtlong, Kraken2, Bracken |
 | [Bio-AI Foundations](https://github.com/Efrazar/Bio-AI-foundations) | Deep learning implemented from scratch while working through *Inside Deep Learning* | Fully connected networks, CNNs, RNNs, autoencoders, GANs, attention and sequence-to-sequence models, trained on a local eGPU setup | PyTorch, Python |
 | [COSTAR Prompting Helper](https://github.com/Efrazar/Prompting_helper_COSTAR) | Desktop app for writing structured AI prompts with the COSTAR framework and keeping a searchable prompt library | Packaged for Windows, macOS and Linux, with unit tests | Python, PySide6, SQLAlchemy, SQLite, pytest |
@@ -60,7 +61,7 @@ On GitHub I build the computational side: experimental design, mechanistic and m
 ## Currently
 
 - Finishing the taxonomic results for the Hunting MicroMonsters metagenomics project
-- Publishing my hackathon project
+- Extending my hackathon project to public pathology reports and images
 - Learning more about protein language models and fine-tuning small language models for biology
 
 ---
